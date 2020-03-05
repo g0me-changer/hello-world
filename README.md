@@ -1,2 +1,6 @@
 # hello-world
 Just another repository...
+Hello Git Hubbers,
+
+follow me on my path to make the world a better one.
+Open for new projects and learning everyday...
